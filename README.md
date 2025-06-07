@@ -46,3 +46,6 @@
     ```sh
     pip install -r ./requirements.txt
     ```
+
+## Related paper
+  Please find the [Openreview Link](https://openreview.net/forum?id=dfUebM9asV) for detailed contents, including the background theory.
