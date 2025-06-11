@@ -49,3 +49,8 @@
 
 ## Related paper
   Please find the [Openreview Link](https://openreview.net/forum?id=dfUebM9asV) for detailed contents, including the background theory.
+
+## Used datasets
+- [KDDCup1999](https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
+- [MNIST](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_openml.html)
+- [Olivetti Faces](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_olivetti_faces.html)
